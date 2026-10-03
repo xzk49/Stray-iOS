@@ -1,0 +1,9 @@
+{
+  "game_path": null,
+  "bundle_id": "dev.example.stray",
+  "team_id": null,
+  "profile_path": null,
+  "signing_identity": null,
+  "device_id": null,
+  "metal_compiler": null
+}

@@ -1,0 +1,19 @@
+#!/usr/bin/env python3
+"""Local preparation and installation of the pinned Stray iOS experiment."""
+import os
+import shutil
+import subprocess
+import sys
+
+# Xcode may put its older Python first on PATH. Use an already installed 3.11+.
+if sys.version_info < (3, 11):
+    for name in ('python3.14', 'python3.13', 'python3.12', 'python3.11'):
+        executable = shutil.which(name)
+        if executable and subprocess.run([executable, '-c', 'import sys; sys.exit(sys.version_info < (3, 11))']).returncode == 0:
+            os.execv(executable, [executable, *sys.argv])
+    sys.exit('Install Python 3.11 or newer, then run ./stray again.')
+
+from tools.workflow import main
+
+if __name__ == '__main__':
+    main()
