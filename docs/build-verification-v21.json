@@ -1,0 +1,39 @@
+{
+  "format": 1,
+  "candidate": "v21",
+  "verified_at_utc": "2026-10-03T02:37:19.352789+00:00",
+  "environment": {
+    "host": "Apple Silicon macOS",
+    "xcode": "26.6 (17F113)",
+    "ios_sdk": "26.5",
+    "python": "3.13.13"
+  },
+  "workflow_commands": [
+    "doctor",
+    "prepare",
+    "build",
+    "check --game LOCAL_GAME",
+    "package"
+  ],
+  "source_inventory_count": 84,
+  "runtime_sources_match_existing_v21": 37,
+  "checks": {
+    "input_files_sha256": 29,
+    "full_resource_count": 16,
+    "full_resource_bytes": 8178370132,
+    "archive_files_sha256": 57,
+    "zip_crc": true,
+    "strict_codesign": true,
+    "framework_count": 25,
+    "bink_libraries": 3,
+    "main_text_matches_three_recorded_policies": true,
+    "settings_regression": true,
+    "thermal_policy_regression": true,
+    "movie_header_regression": true,
+    "real_movie_pairs_and_fallback": true
+  },
+  "local_ipa_bytes": 8370036490,
+  "this_rebuild_installed_on_device": false,
+  "this_rebuild_gameplay_verified": false,
+  "target_fps_verified": false
+}
