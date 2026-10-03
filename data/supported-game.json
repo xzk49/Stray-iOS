@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "name": "Stray",
+  "version": "1.6",
+  "build": "102",
+  "architecture": "arm64",
+  "guest_uuid": "b23cfbe6-80d4-32aa-9675-5f9a5ed453de",
+  "main_executable": "Contents/MacOS/Stray-Mac-Shipping",
+  "files": [
+    {
+      "path": "Contents/Info.plist",
+      "size": 1931,
+      "sha256": "d97313bb30de7ae2df701cdd098996acd453d857df3f63e6ade1eb738222beb5"
+    },
+    {
+      "path": "Contents/MacOS/Stray-Mac-Shipping",
+      "size": 161364224,
+      "sha256": "592efa06eaa2fc56f751554a1e2ac08ae5d31ff38a7d9e554473e3fcb4ae97d8"
+    },
+    {
+      "path": "Contents/PkgInfo",
+      "size": 8,
+      "sha256": "82502191c9484b04d685374f9879a0066069c49b8acae7a04b01d38d07e8eca0"
+    },
+    {
+      "path": "Contents/Resources/Application.icns",
+      "size": 261891,
+      "sha256": "2f3218b17a51534d5d5a7f0f748d44ad78006fda17ed4c187f2ee3f95721be21"
+    },
+    {
+      "path": "Contents/Resources/Stray.icns",
+      "size": 261891,
+      "sha256": "2f3218b17a51534d5d5a7f0f748d44ad78006fda17ed4c187f2ee3f95721be21"
+    },
+    {
+      "path": "Contents/UE4/Engine/Binaries/ThirdParty/Ogg/Mac/libogg.dylib",
+      "size": 79024,
+      "sha256": "c5a2b5417baf1c8bea95c5484a865ec0d5b4380f09d165065a3224f8a54e43d2"
+    },
+    {
+      "path": "Contents/UE4/Engine/Binaries/ThirdParty/PhysX3/Mac/libAPEX_Clothing.dylib",
+      "size": 1561040,
+      "sha256": "cd548c56cfb189b6754f07315c8e6b30d38d4049d214d84015dc630ef87e36da"
+    },
+    {
+      "path": "Contents/UE4/Engine/Binaries/ThirdParty/PhysX3/Mac/libAPEX_Destructible.dylib",
+      "size": 2398224,
+      "sha256": "6d29f3f216fcb1200525cbc39cc7d9e4537becc4bfe9c1a3eadea9feb6415689"
+    },
+    {
+      "path": "Contents/UE4/Engine/Binaries/ThirdParty/PhysX3/Mac/libAPEX_Legacy.dylib",
+      "size": 10240064,
+      "sha256": "037387b3619e442172542c7a65a8b06e7664452f8dbdca33b12d9dc7e8419eb0"
+    },
+    {
+      "path": "Contents/UE4/Engine/Binaries/ThirdParty/PhysX3/Mac/libApexFramework.dylib",
+      "size": 1721264,
+      "sha256": "bd170c01fea49273da88301346719cd4b0269b4e927a2e4de59afaba7c724d69"
+    },
+    {
+      "path": "Contents/UE4/Engine/Binaries/ThirdParty/PhysX3/Mac/libNvCloth.dylib",
+      "size": 349552,
+      "sha256": "1b75c334bf7d24c0e0c774fe9924a5604bc34cacc331025f53a24d450f150b9e"
+    },
+    {
+      "path": "Contents/UE4/Engine/Binaries/ThirdParty/PhysX3/Mac/libPhysX3.dylib",
+      "size": 3375216,
+      "sha256": "e5b705eac2daf9246f14f6ad349d1de4b2f2a80574a62206c29a801d0abadd5d"
+    },
+    {
+      "path": "Contents/UE4/Engine/Binaries/ThirdParty/PhysX3/Mac/libPhysX3Common.dylib",
+      "size": 1433344,
+      "sha256": "306cbd7a0fa2004f9c8fc8c981892274220f18da2fa5c0ae4c2df74f895f4de5"
+    },
+    {
+      "path": "Contents/UE4/Engine/Binaries/ThirdParty/PhysX3/Mac/libPhysX3Cooking.dylib",
+      "size": 349296,
+      "sha256": "1488d40a0a8a425d708b7d5443074cd756adf54355db2e4aa6429c46ae79ee45"
+    },
+    {
+      "path": "Contents/UE4/Engine/Binaries/ThirdParty/PhysX3/Mac/libPxFoundation.dylib",
+      "size": 135632,
+      "sha256": "43564e285791787611ac2e220dd218120e263a0acf82da82d8e3e1c8dccf5c9c"
+    },
+    {
+      "path": "Contents/UE4/Engine/Binaries/ThirdParty/PhysX3/Mac/libPxPvdSDK.dylib",
+      "size": 402624,
+      "sha256": "94508778bea8988a88a9c5d48264f623c903de7e360bdcd56dae9de1eb9d9f06"
+    },
+    {
+      "path": "Contents/UE4/Engine/Binaries/ThirdParty/Vorbis/Mac/libvorbis.dylib",
+      "size": 3325632,
+      "sha256": "7a977d0f10146ba2de0ac0b12f1f81969fa26c0d48ff572fe029e799cd7705a7"
+    },
+    {
+      "path": "Contents/UE4/Hk_project/Content/Movies/BinkMediaPlayer.uasset",
+      "size": 1301,
+      "sha256": "ff412552054e17517fd6e2f2dbf43ef90c9f8fe06243e3281097aadd5f3fb25e"
+    },
+    {
+      "path": "Contents/UE4/Hk_project/Content/Movies/BinkMediaPlayer_Tex.uasset",
+      "size": 3309,
+      "sha256": "2649bb4df252e9ffbc11be917433831b4d6750ab41b3fd473fe2fd0f3d74e57d"
+    },
+    {
+      "path": "Contents/UE4/Hk_project/Content/Movies/Bink_EndCineOpeningCity.bk2",
+      "size": 275209572,
+      "sha256": "204654326a0db3b049c2ccdfa0158bd51369ccf565369f7c04cb14d4fb99c434"
+    },
+    {
+      "path": "Contents/UE4/Hk_project/Content/Movies/Bink_EndCineOpeningCity_1080p.bk2",
+      "size": 68824364,
+      "sha256": "9c871dc91ae00e8b4a79882edbfa27d2ab4a59e708c9243bd59c5d582dcafc42"
+    },
+    {
+      "path": "Contents/UE4/Hk_project/Content/Movies/Bink_InsideTheWall_Falling_ZONE.bk2",
+      "size": 221648608,
+      "sha256": "480dce3aa097abf2b16fc2af6c7587fa7e7e4dd4a1166cefed893c5de3d692a6"
+    },
+    {
+      "path": "Contents/UE4/Hk_project/Content/Movies/Bink_InsideTheWall_Falling_ZONE_1080p.bk2",
+      "size": 55314156,
+      "sha256": "6bff6922d3f11bf03713ba0ba7c62095f5829ab68f3f2c6e2bf0666fc7cb0190"
+    },
+    {
+      "path": "Contents/UE4/Hk_project/Content/Movies/Bink_JailToMidtown.bk2",
+      "size": 161373572,
+      "sha256": "1044532f98f7acb41a42ceed002cb1237cb24376d44a0e814d52c19cffa95f62"
+    },
+    {
+      "path": "Contents/UE4/Hk_project/Content/Movies/Bink_JailToMidtown_1080p.bk2",
+      "size": 40370212,
+      "sha256": "fb67adfc0127cff932a5e866341e0453dc40a6e3c2a87614a2dbd8b77d3d08f6"
+    },
+    {
+      "path": "Contents/UE4/Hk_project/Content/Paks/pakchunk0-MacNoEditor.pak",
+      "size": 1782136927,
+      "sha256": "42286ec3dbb01c8a5c5d778ec2dd7be778f31d61b3dd9478345f9ec1320caa4d"
+    },
+    {
+      "path": "Contents/UE4/Hk_project/Content/Paks/pakchunk0_s1-MacNoEditor.pak",
+      "size": 1715973614,
+      "sha256": "8362c884cae9d1424d6e161cc67af97b62170d23cc1dea2e8c74b1a95a8babf9"
+    },
+    {
+      "path": "Contents/UE4/Hk_project/Content/Paks/pakchunk0_s2-MacNoEditor.pak",
+      "size": 2058157700,
+      "sha256": "e19b80fc894ad4d22b4d7972519e5ae73be8af667498f3102248225f9c47b774"
+    },
+    {
+      "path": "Contents/UE4/Hk_project/Content/Paks/pakchunk0_s3-MacNoEditor.pak",
+      "size": 1798831076,
+      "sha256": "0cd95fd27d41b9d9222de7b0c648687cedf84726e0ed0a2012e00a573cf3d0a1"
+    }
+  ]
+}
